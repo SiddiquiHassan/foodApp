@@ -11,7 +11,7 @@ const Recipie = (props) => {
                     <li>{ingridient.text}</li>
                 ))}
             </ol>
-            <img src={props.image} alt=""></img>
+            <img src={props.image} alt="RecipePicture"></img>
         </div>
     );
 
