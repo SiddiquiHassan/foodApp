@@ -10,7 +10,4 @@ alert('');
 
 alert('');
 
-alert('');
-
-alert('');
 
